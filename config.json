@@ -14,9 +14,9 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Krystal [BETA]",
-    "AMDIN_NAME": "Điền tên bạn vào đây",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "BOTNAME": "Tổng Tài Bá Đạo",
+    "AMDIN_NAME": "Nguyễn Hoang Anh",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/15iPMezziF/",
     "PREFIX": "/",
     "LOGIN": {
         "EMAIL": "",
@@ -24,10 +24,10 @@
         "OTPKEY": ""
     },
     "ADMINBOT": [
-        "100018277053087"
+        "61577255902944"
     ],
     "NDH": [
-        "100018277053087"
+        "61577255902944"
     ],
     "DATABASE": {
         "sqlite": {
